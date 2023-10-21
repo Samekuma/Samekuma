@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Samekuma
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML, CSS, AND JAVASCRIPT
-- 💞️ I’m looking to collaborate on any project surrounding health tech and agric tech
+- 👀 I’m a software engineer
+- 🌱 I’m currently learning React JS and Node JS
 - 📫 You can send me an email at samuelekumamba@gmail.com
 
 <!---
