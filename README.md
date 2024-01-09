@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samekuma
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning React JS and Node JS
+- 🌱 I work with the following technologies: Next JS, React JS, Cypress JS, SASS, CSS, and HTML. Equally brushing up on Angular 8.
 - 📫 You can send me an email at samuelekumamba@gmail.com
 
 <!---
